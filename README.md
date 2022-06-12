@@ -8,7 +8,8 @@ Calculadora desenvolvida em React.Js.
 
  
 
-![previewCalculator](C:\Users\rafae\OneDrive\Área de Trabalho\calculadora\previewCalculadora.png)
+![previewCalculadora](https://user-images.githubusercontent.com/99810723/173241861-53cf7652-ab26-45d4-b320-8498b4c49186.png)
+
 
 
 
